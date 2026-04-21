@@ -133,6 +133,32 @@ while True:
 ## Experiment 1B:
 
 
+from machine import Pin
+import time import sleep 
+switch1=Pin(2,Pin.IN)
+switch2=Pin(3,Pin.IN)
+led1=Pin(13,Pin.OUT)
+led2=Pin(16,Pin.OUT)
+while True:
+    sw1_state=switch1.value()
+    sw2_state=switch2.value()
+    print("Switch 1 State", sw1_state)
+    print("Switch 2 State", sw2_state)
+    led1.value(0)
+    if sw1_state==1 and sw2_state==1:
+        led1.value(0)
+        led2.value(0)
+    elif sw1_state==1:
+        led1.value(1)
+        sleep(0.5)
+        led1.value(0)
+        led2.value(0)
+    elif sw2_state==1:
+        led1.value(0)
+        led2.value(1)
+        sleep(0.5)
+        led2.value(0)
+    sleep(0.5)
 
  
 
