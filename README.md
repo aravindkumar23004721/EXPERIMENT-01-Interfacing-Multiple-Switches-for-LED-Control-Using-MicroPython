@@ -8,7 +8,7 @@
 
 ## ROLL NO: 212223110004
 
-## DATE OF EXPERIMENT: 
+## DATE OF EXPERIMENT: 21-04-2026
 
 ## AIM
 
@@ -166,7 +166,7 @@ while True:
 ## Experiment 1A:
 ## FIGURE-04: CIRCUIT CONNECTION
 
-<img width="1918" height="970" alt="exp1-1" src="https://github.com/user-attachments/assets/cd66388a-f06d-4b31-a158-084f7690a052" />
+<img width="768" height="583" alt="image" src="https://github.com/user-attachments/assets/b9a4f658-6231-417f-8c3e-9632a9115616" />
 
 ## FIGURE-05: CODE EXECUTION OUTPUT
 
@@ -186,7 +186,7 @@ while True:
 
 ## FIGURE-08: CODE EXECUTION OUTPUT
 
-<img width="1918" height="968" alt="6" src="https://github.com/user-attachments/assets/a80ced84-180b-41fa-9260-f183e3e47511" />
+<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/b317afc2-a5d3-4181-a60a-458335faeed7" />
 
 ## FIGURE-09: LED STATUS BASED ON SWITCH INPUTS
 
