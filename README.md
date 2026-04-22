@@ -2,13 +2,13 @@
 
 
  
-## NAME:
+## NAME: Aravind Kumar SS
 
-## DEPARTMENT:
+## DEPARTMENT: CSE(IOT)
 
-## ROLL NO:
+## ROLL NO: 212223110004
 
-## DATE OF EXPERIMENT:
+## DATE OF EXPERIMENT: 
 
 ## AIM
 
@@ -163,36 +163,34 @@ while True:
  
 
 ## OUTPUT
-
-
 ## Experiment 1A:
-
-
-
 ## FIGURE-04: CIRCUIT CONNECTION
 
-
+<img width="1918" height="970" alt="exp1-1" src="https://github.com/user-attachments/assets/cd66388a-f06d-4b31-a158-084f7690a052" />
 
 ## FIGURE-05: CODE EXECUTION OUTPUT
 
-
+<img width="1918" height="968" alt="exp-2" src="https://github.com/user-attachments/assets/94c352f6-8b82-4d7b-9e5b-25a604c0d978" />
+<img width="1918" height="968" alt="3" src="https://github.com/user-attachments/assets/b5ee573d-f186-4e89-a924-add3516dacd9" />
+<img width="1918" height="972" alt="4" src="https://github.com/user-attachments/assets/1ed2abb6-bdc5-49e9-a62d-597937109c68" />
 
 ## FIGURE-06: LED AND BUZZER STATUS
 
+<img width="1918" height="968" alt="5" src="https://github.com/user-attachments/assets/4ecec7bb-25b7-4874-98e7-0ecf962306db" />
 
 ## Experiment 1B:
-
-
 ## FIGURE-07: CIRCUIT CONNECTION
 
+<img width="713" height="522" alt="8" src="https://github.com/user-attachments/assets/90a4ddf4-0bfd-46e5-bbee-84c093623f2c" />
 
 
 ## FIGURE-08: CODE EXECUTION OUTPUT
 
-
+<img width="1918" height="968" alt="6" src="https://github.com/user-attachments/assets/a80ced84-180b-41fa-9260-f183e3e47511" />
 
 ## FIGURE-09: LED STATUS BASED ON SWITCH INPUTS
 
+<img width="1911" height="970" alt="7" src="https://github.com/user-attachments/assets/2eb52abb-e888-489d-a15b-008841218868" />
 
 ## RESULTS
 
