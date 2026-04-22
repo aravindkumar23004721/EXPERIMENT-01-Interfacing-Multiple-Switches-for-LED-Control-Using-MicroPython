@@ -1,13 +1,8 @@
 # EXPERIMENT-01-Interfacing-Multiple-Switches-for-LED-Control-Using-MicroPython
 
-
- 
 ## NAME: Aravind Kumar SS
-
 ## DEPARTMENT: CSE(IOT)
-
 ## ROLL NO: 212223110004
-
 ## DATE OF EXPERIMENT: 21-04-2026
 
 ## AIM
@@ -45,7 +40,6 @@ The power pins include VBUS (5V from USB), VSYS (1.8V to 5.5V input), 3V3(OUT) (
 For communication, I2C (SDA, SCL), SPI (MOSI, MISO, SCK), and UART (TX, RX) interfaces are mapped across different GPIO pins, allowing seamless connectivity with sensors and peripherals. All GPIO pins support PWM (Pulse Width Modulation), making it useful for motor control, LED brightness adjustment, and sound applications. The BOOTSEL button enables USB mass storage mode for firmware flashing, while the DEBUG pins (SWD interface) provide debugging capabilities. With its low power consumption, flexible GPIO options, and rich interface support, the Raspberry Pi Pico is widely used for IoT, embedded systems, robotics, and automation projects.
 
 ## WORKING PRINCIPLE
-
 ## Experiment 1A:
 1. The LEDs are connected as outputs in any three GPIO pins.
 
@@ -129,9 +123,7 @@ while True:
 
 
 
-
 ## Experiment 1B:
-
 
 from machine import Pin
 import time import sleep 
@@ -159,8 +151,6 @@ while True:
         sleep(0.5)
         led2.value(0)
     sleep(0.5)
-
- 
 
 ## OUTPUT
 ## Experiment 1A:
@@ -193,6 +183,5 @@ while True:
 <img width="1911" height="970" alt="7" src="https://github.com/user-attachments/assets/2eb52abb-e888-489d-a15b-008841218868" />
 
 ## RESULTS
-
 The multiple switches connected to the Raspberry Pi Pico successfully controlled the LEDs based on their states, confirming the proper interfacing of digital inputs and outputs.
 
